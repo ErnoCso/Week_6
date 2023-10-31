@@ -11,3 +11,6 @@ squares = [4, 9, 16, 25, 36]
 for i in squares:
     result = math.sqrt(i)
     print(result, end="  ")
+
+# Output:
+# 2.0  3.0  4.0  5.0  6.0  
