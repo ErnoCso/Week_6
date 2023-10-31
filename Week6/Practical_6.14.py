@@ -12,3 +12,10 @@ print(f"This is a copy of the original list: {new_colours}\n")
 
 colours.remove("green")
 print(f"This is the modified list: {colours},\nThis is a copy of the original list  {new_colours}")
+
+# Output:
+# This is the original list: ['red', 'green', 'yellow', 'blue', 'red']
+# This is a copy of the original list: ['red', 'green', 'yellow', 'blue', 'red']
+# 
+# This is the modified list: ['red', 'yellow', 'blue', 'red'],
+# This is a copy of the original list  ['red', 'green', 'yellow', 'blue', 'red']
