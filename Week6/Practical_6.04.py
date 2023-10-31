@@ -10,3 +10,7 @@ print(squares)
 
 squares.insert(0, 2)
 print(squares)
+
+# Output:
+# [4, 9, 16, 25, 36]
+# [2, 4, 9, 16, 25, 36]
