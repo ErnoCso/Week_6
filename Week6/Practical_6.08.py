@@ -13,4 +13,4 @@ print(f"The list is after the pop() command: {squares}")
 
 # Output:
 #                   The original list: [4, 9, 16, 25, 36, 49, 64, 81, 100]
-# The list is after the pop() command: [4, 9, 16, 25, 36, 49, 64, 81]
+# The list is after the pop() command: [4, 9, 16, 25, 36, 49, 64, 81] 
