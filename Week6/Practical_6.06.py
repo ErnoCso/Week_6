@@ -10,3 +10,7 @@ print(squares)
 
 squares.remove(3)
 print(squares)
+
+# Output:
+# [4, 9, 16, 25, 36, 49, 64, 81, 100]
+# [4, 9, 16, 25, 36, 64, 81, 100]
