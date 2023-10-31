@@ -36,5 +36,5 @@ main()
 # Please type in an integer: 67
 # 1000011
 # Would you like to run again? n
-# 
+#
 # Process finished with exit code 0
